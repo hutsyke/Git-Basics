@@ -7,3 +7,6 @@ This is a sample demo of how to git
 
 - [Josphat Mwania](https://github.com/josphatmwania)
   > Android Developer
+
+- [Noah Muhindi](https://github.com/Noah29m)
+  > Android Developer
